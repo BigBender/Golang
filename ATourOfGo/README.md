@@ -28,14 +28,14 @@
 
 ### moretypes
 
-- [pointer](https://github.com/YC-L/Golang/blob/master/ATourOfGo/flowcontrol/pointer.go)
+- [pointer](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/pointer.go)
 
-- [struct-0](https://github.com/YC-L/Golang/blob/master/ATourOfGo/flowcontrol/struct_0.go)
+- [struct-0](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/struct_0.go)
 
-- [struct-1](https://github.com/YC-L/Golang/blob/master/ATourOfGo/flowcontrol/struct_1.go)
+- [struct-1](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/struct_1.go)
 
-- [struct-2](https://github.com/YC-L/Golang/blob/master/ATourOfGo/flowcontrol/struct_2.go)
+- [struct-2](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/struct_2.go)
 
-- [struct-3](https://github.com/YC-L/Golang/blob/master/ATourOfGo/flowcontrol/struct_3.go)
+- [struct-3](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/struct_3.go)
 
-- [array-0](https://github.com/YC-L/Golang/blob/master/ATourOfGo/flowcontrol/array_0.go)
+- [array-0](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/array_0.go)
