@@ -26,7 +26,7 @@
 
 - [defer-1](https://github.com/YC-L/Golang/blob/master/ATourOfGo/flowcontrol/defer_1.go)
 
-### moretypes
+### moreTypes
 
 - [pointer](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/pointer.go)
 

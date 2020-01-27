@@ -5,7 +5,7 @@
 	Expression var a [10]int
 	The variable a is declared as an array of 10 integers.
 
-	Array length cannot be changed
+	Array length **cannot be changed**
 */
 
 package main
