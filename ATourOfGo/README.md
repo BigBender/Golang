@@ -39,3 +39,17 @@
 - [struct-3](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/struct_3.go)
 
 - [array-0](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/array_0.go)
+
+- [slice-1](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/slice_1.go)
+
+- [slice-2](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/slice_2.go)
+
+- [slice-3](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/slice_3.go)
+
+- [slice-4](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/slice_4.go)
+
+- [slice-5](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/slice_5.go)
+
+- [slice-6](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/slice_6.go)
+
+- [slice-7](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/slice_7.go)
