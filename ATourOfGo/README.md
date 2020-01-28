@@ -53,3 +53,28 @@
 - [slice-6](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/slice_6.go)
 
 - [slice-7](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/slice_7.go)
+
+- [slice-8](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/slice_8.go)
+
+- [map-0](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/map_0.go)
+
+- [map-1](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/map_1.go)
+
+- [map-2](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/map_2.go)
+
+- [range-0](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/range_0.go)
+
+- [range-1](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/range_1.go)
+
+- [function-value](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/function_value.go)
+
+- [function-closure](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/funcion_closure.go)
+
+- [practice-map](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/practice_map.go)
+
+- [practice-slice](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/practice_slice.go)
+
+- [practice-fibonacci](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/practice_fibonacci.go)
+
+
+
