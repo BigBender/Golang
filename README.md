@@ -1,6 +1,6 @@
 ## Golang
 
-![Golang](https://github.com/YC-L/Golang/tree/master/imgs/Golang.jpg)
+![Golang](https://github.com/YC-L/Golang/blob/master/imgs/Golang.jpg)
 
 ### Learn GoLang
 
