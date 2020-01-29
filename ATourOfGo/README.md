@@ -74,6 +74,8 @@
 
 - [practice-slice](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/practice_slice.go)
 
+- [practice-slice-image](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/practice_slice.md)
+
 - [practice-fibonacci](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/practice_fibonacci.go)
 
 
