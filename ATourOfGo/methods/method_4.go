@@ -1,7 +1,7 @@
 /*
 	var v Vertex
 	ScaleFunc(v, 5) // Compile error!
-	ScaleFunc(& v, 5) // OK
+	ScaleFunc(&v, 5) // OK
 
 	When a method with a pointer as the receiver is called, the receiver can be both a value and a pointer:
 	var v Vertex
