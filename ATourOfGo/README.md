@@ -78,5 +78,25 @@
 
 - [practice-fibonacci](https://github.com/YC-L/Golang/blob/master/ATourOfGo/moretypes/practice_fibonacci.go)
 
+### methods
 
+- [method-0](https://github.com/YC-L/Golang/blob/master/ATourOfGo/methods/method_0.go)
+
+- [method-1](https://github.com/YC-L/Golang/blob/master/ATourOfGo/methods/method_1.go)
+
+- [method-2](https://github.com/YC-L/Golang/blob/master/ATourOfGo/methods/method_2.go)
+
+- [method-3](https://github.com/YC-L/Golang/blob/master/ATourOfGo/methods/method_3.go)
+
+- [method-4](https://github.com/YC-L/Golang/blob/master/ATourOfGo/methods/method_4.go)
+
+- [method-5](https://github.com/YC-L/Golang/blob/master/ATourOfGo/methods/method_5.go)
+
+- [method-6](https://github.com/YC-L/Golang/blob/master/ATourOfGo/methods/method_6.go)
+
+- [interface-0](https://github.com/YC-L/Golang/blob/master/ATourOfGo/methods/interface_0.go)
+
+- [interface-1](https://github.com/YC-L/Golang/blob/master/ATourOfGo/methods/interface_1.go)
+
+- [interface-2](https://github.com/YC-L/Golang/blob/master/ATourOfGo/methods/interface_2.go)
 
